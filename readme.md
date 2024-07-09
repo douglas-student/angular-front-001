@@ -9,4 +9,10 @@
 
 Total 10 vídeos
 
-⬜ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ 10%
+⬜ ⬜ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ 20%
+
+## Tecnologias utilizadas:
+
+- [Node.js](https://nodejs.org/pt)
+- [Angular](https://angular.dev/)
+- [MongoDB](cloud.mongodb.com)
