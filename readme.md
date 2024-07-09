@@ -9,13 +9,4 @@
 
 Total 10 vídeos
 
-<span>⬜ </span>
-<span style="color: #b3b3">⬜ </span>
-<span style="color: #b3b3">⬜ </span>
-<span style="color: #b3b3">⬜ </span>
-<span style="color: #b3b3">⬜ </span>
-<span style="color: #b3b3">⬜ </span>
-<span style="color: #b3b3">⬜ </span>
-<span style="color: #b3b3">⬜ </span>
-<span style="color: #b3b3">⬜ </span>
-<span style="color: #b3b3">⬜ </span> 10%
+⬜ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ 10%
