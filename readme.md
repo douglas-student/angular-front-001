@@ -9,34 +9,13 @@
 
 Total 10 vídeos
 
-<style>
-  .progress-container {
-    display: flex;
-    width: 200px;
-    heigth: 20px;
-  }
-  .progress-square {
-    width: 20px;
-    height: 20px;
-    margin-right: 2px;
-    background-color: #ddd;
-  }
-  .progress-square.active {
-    background-color: #4caf50;
-  }
-</style>
-
-<div class="progress-container">
-  <div class="progress-square active"></div>
-  <div class="progress-square "></div>
-  <div class="progress-square "></div>
-  <div class="progress-square "></div>
-  <div class="progress-square"></div>
-  <div class="progress-square"></div>
-  <div class="progress-square"></div>
-  <div class="progress-square"></div>
-  <div class="progress-square"></div>
-  <div class="progress-square"></div>
-</div>
-
-
+<span>⬜ </span>
+<span style="color: #b3b3">⬜ </span>
+<span style="color: #b3b3">⬜ </span>
+<span style="color: #b3b3">⬜ </span>
+<span style="color: #b3b3">⬜ </span>
+<span style="color: #b3b3">⬜ </span>
+<span style="color: #b3b3">⬜ </span>
+<span style="color: #b3b3">⬜ </span>
+<span style="color: #b3b3">⬜ </span>
+<span style="color: #b3b3">⬜ </span> 10%
