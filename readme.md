@@ -9,7 +9,7 @@
 
 Total 10 vídeos
 
-⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 30%
+⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 40%
 
 ## Tecnologias utilizadas:
 
